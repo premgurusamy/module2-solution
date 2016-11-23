@@ -1,5 +1,4 @@
 body{
-  background-color: grey;
   font-family: sans-serif;
   margin: 0;
   padding: 0;
@@ -7,7 +6,6 @@ body{
 
 .main-container{
   padding: 10px;
-  border: 2px solid black;
   overflow: auto;
 }
 h1{
@@ -30,8 +28,8 @@ h1{
   padding: 1em 0;
   text-align: center;
   position: absolute;
-  top:-25px;
-  right: 0px;
+  top:-24px;
+  right: -2px;
 }
 
 
@@ -50,13 +48,13 @@ h1{
   background-color: blue;
 }
 .item-1{
-  background-color: red;
+  background-color: grey;
 }
 .item-2{
-  background-color: blue;
+  background-color: grey;
 }
 .item-3{
-  background-color: orange;
+  background-color: grey;
 }
 /******Large Screen*******/
 @media(min-width:992px){
