@@ -45,16 +45,16 @@ h1{
   color: white;
 }
 .item-3 h5{
-  background-color: blue;
+  background-color: rgb(231,155,188);
 }
 .item-1{
-  background-color: grey;
+  background-color: rgb(155,155,155);
 }
 .item-2{
-  background-color: grey;
+  background-color: rgb(155,155,155);
 }
 .item-3{
-  background-color: grey;
+  background-color: rgb(155,155,155);
 }
 /******Large Screen*******/
 @media(min-width:992px){
